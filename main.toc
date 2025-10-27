@@ -10,3 +10,7 @@
 \contentsline {subsection}{4) Интегрируемость произведения}{4}{section*.10}%
 \contentsline {section}{4. Вычисление двойного интеграла в декартовой системе координат}{6}{section*.12}%
 \contentsline {section}{5. Криволинейные координаты на плоскости}{7}{section*.13}%
+\contentsline {section}{6. Замена переменных в двойном интеграле}{9}{section*.14}%
+\contentsline {section}{7. Замена переменных в произвольном двойном интеграле}{10}{section*.15}%
+\contentsline {section}{8. Дифференциальные уравнения 1-го порядка}{11}{section*.16}%
+\contentsline {section}{9. Геометрический смысл уравнения}{13}{section*.17}%
